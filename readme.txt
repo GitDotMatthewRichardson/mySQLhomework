@@ -1,0 +1,1 @@
+My homework answers for MySQL 
